@@ -1,7 +1,25 @@
-Download "MielophoneDL.swf"
+Download "MielophoneDL.swf"  (Downloads-> Right-click -> Save as...)
 
 Put the file in MIELOPHONE_DIR/extensions
 
 Reset Mielophone
 
 Enjoy it!
+
+---------------------------------------------------------------------
+Usage:
+
+Download Button: 			Current song is downloaded.
+Download All Button: 		All songs in PlayList are downloaded.
+Mode Button:				Changes current download mode.
+
+Download modes availables:	
+
+N - Normal Mode:			AD to ~/Mielophone 
+H - Hierarchy Mode:			AD to ~/Mielophone/Artist/Album/
+A - Hierarchy A Mode:		AD to ~/Mielophone/Artist/
+M - Manual Mode:			For each song, ask's destination folder.
+
+(~ = User documents folder)
+AD: 		Automatically downloaded.
+---------------------------------------------------------------------
